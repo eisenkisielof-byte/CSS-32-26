@@ -1,0 +1,11 @@
+/* Eisen Kisielow 1KP */
+
+h3 {
+    background: rgb(255, 20, 147); \
+    width: 300pt;
+    height: 4cm;
+    border-style: double;
+    border-color: gray;
+    text-align: center;
+    font-size: 12px;
+}
